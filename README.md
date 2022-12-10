@@ -3,13 +3,13 @@
 
 ###　バージョン確認
 ```sh
-ruby -v
+$ ruby -v
 ```
 
 ### 実行
 ```sh
-ruby ファイル名
-ruby index.rb 
+$ ruby ファイル名
+$ ruby index.rb 
 ```
 
 ## 参考サイト
